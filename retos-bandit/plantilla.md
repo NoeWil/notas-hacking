@@ -1,9 +1,10 @@
 ## Objetivo
 
 ## Datos de acceso al nivel
-
+* Username = bandit
+* password = 
 ## Solucion
-````text
+````bash
 
 ````
 ## Notas adicionales
