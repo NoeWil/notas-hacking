@@ -149,10 +149,29 @@ kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
 
 closed
 ````
+### Forma 2
+```bash 
+
+bandit15@bandit:~$ ncat -v --ssl localhost 30001
+Ncat: Version 7.94SVN ( https://nmap.org/ncat )
+Ncat: Subject: CN=SnakeOil
+Ncat: Issuer: CN=SnakeOil
+Ncat: SHA-1 fingerprint: 323A F3B1 4FC7 1B0F F71A 1931 8FF3 62A1 49AC 735A
+Ncat: Certificate verification failed (self-signed certificate).
+Ncat: SSL connection to 127.0.0.1:30001.
+Ncat: SHA-1 fingerprint: 323A F3B1 4FC7 1B0F F71A 1931 8FF3 62A1 49AC 735A
+8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
+Correct!
+kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
+```
+
 ## Notas adicionales
 - El comando intenta establecer una conexión TCP al puerto especificado (30001) en el host (localhost). Luego, intenta negociar un canal de comunicación seguro utilizando el protocolo SSL/TLS.
 - `openssl s_client`: Este es el comando que invoca la utilidad `s_client` de OpenSSL. La utilidad `s_client` actúa como un cliente de conexión SSL/TLS para probar y depurar conexiones seguras.
 - `-connect localhost:30001`: Esta opción especifica el punto de conexión al que el cliente debe conectarse.
+- ncat es una herramienta similar a netcat pero con otras ventajas como conectar a puertos ssl
+- ssl / tls - Es un protocolo de comunicacion generalmente usado en sitios web (https).
+- openssl - es un cliente ssl para linux
 ## Referencias
 - [Secure Socket Layer/Transport Layer Security on Wikipedia](https://en.wikipedia.org/wiki/Transport_Layer_Security)
 - [OpenSSL Cookbook - Testing with OpenSSL](https://www.feistyduck.com/library/openssl-cookbook/online/testing-with-openssl/index.html)
