@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/02 - First Grep.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a760d79a30f8b59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Bandit Level 30 → Level 31.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d03f61539f65028f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Bandit Level 31 → Level 32.md",
+                "file": "picoCTF/40 - useless.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/02 - First Grep.md",
+                "file": "picoCTF/40 - useless.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/02 - First Grep.md",
+                "file": "picoCTF/40 - useless.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/02 - First Grep.md"
+                "file": "picoCTF/40 - useless.md"
               }
             }
           }
@@ -172,33 +148,34 @@
   },
   "active": "38f29139c2f28175",
   "lastOpenFiles": [
+    "picoCTF/39 - Special.md",
+    "picoCTF/40 - useless.md",
     "picoCTF/plantilla.md",
+    "picoCTF/38 - Serpentine.md",
+    "picoCTF/37 - PW Crack 3.md",
+    "picoCTF/36 - plumbing.md",
+    "picoCTF/35 - Permissions.md",
+    "picoCTF/34 - chrono.md",
+    "picoCTF/33 - Based.md",
+    "picoCTF/32 - ASCII Numbers.md",
+    "picoCTF/31 - Lets Warm Up.md",
+    "picoCTF/Sin nombre",
+    "picoCTF/30 - what's a net cat.md",
+    "picoCTF/29 - Wave a flag.md",
+    "picoCTF/28 - Warmed Up.md",
+    "picoCTF/27 - strings it.md",
+    "picoCTF/26 - Static ain't always noise.md",
+    "picoCTF/25 - Obedient Cat.md",
+    "picoCTF/24 - Nice netcat....md",
+    "picoCTF/23 - Bases.md",
     "picoCTF/02 - First Grep.md",
-    "picoCTF/01 - 2Warm.md",
-    "retos-bandit/plantilla.md",
-    "retos-bandit/Bandit Level 32 → Level 33.md",
+    "picoCTF/22 - Tab, Tab, Attack.md",
+    "picoCTF/21 - runme.py.md",
+    "picoCTF/20 - PW Crack 2.md",
+    "picoCTF/19 - PW Crack 1.md",
+    "picoCTF/18 - Magikarp Ground Mission.md",
+    "picoCTF/17 - Glitch Cat.md",
     "picoCTF",
-    "retos-bandit/Bandit Level 29 → Level 30.md",
-    "retos-bandit/Bandit Level 31 → Level 32.md",
-    "retos-bandit/Bandit Level 30 → Level 31.md",
-    "retos-bandit/Bandit Level 28 → Level 29.md",
-    "retos-bandit/Bandit Level 23 → Level 24.md",
-    "retos-bandit/Bandit Level 24 → Level 25.md",
-    "retos-bandit/Bandit Level 27 → Level 28.md",
-    "retos-bandit/Sin título.md",
-    "retos-bandit/Bandit Level 25 → Level 26.md",
-    "retos-bandit/Bandit Level 26 → Level 27.md",
-    "retos-bandit/Bandit Level 22 → Level 23.md",
-    "retos-bandit/Bandit Level 21 → Level 22.md",
-    "retos-bandit/Bandit Level 15 → Level 16.md",
-    "retos-bandit/Bandit Level 14 → Level 15.md",
-    "retos-bandit/Bandit Level 13 → Level 14.md",
-    "retos-bandit/Bandit Level 12 → Level 13.md",
-    "retos-bandit/Bandit Level 20 → Level 21.md",
-    "retos-bandit/Bandit Level 19 → Level 20.md",
-    "retos-bandit/Bandit Level 16 → Level 17.md",
-    "retos-bandit/Bandit Level 17 → Level 18.md",
-    "retos-bandit/Bandit Level 18 → Level 19.md",
     "retos-bandit"
   ]
 }
