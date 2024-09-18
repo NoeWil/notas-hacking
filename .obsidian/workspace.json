@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/40 - useless.md",
+                "file": "picoCTF/Web parte 1/Client-side-again.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/40 - useless.md",
+                "file": "picoCTF/Web parte 1/Client-side-again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/40 - useless.md",
+                "file": "picoCTF/Web parte 1/Client-side-again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/40 - useless.md"
+                "file": "picoCTF/Web parte 1/Client-side-again.md"
               }
             }
           }
@@ -148,33 +148,34 @@
   },
   "active": "38f29139c2f28175",
   "lastOpenFiles": [
-    "picoCTF/39 - Special.md",
-    "picoCTF/40 - useless.md",
+    "picoCTF/Web parte 1/dont-use-client-side.md",
+    "picoCTF/Web parte 1/Insp3ct0r.md",
+    "picoCTF/Web parte 1/logon.md",
+    "picoCTF/Web parte 1/picobrowser.md",
+    "picoCTF/Web parte 1/where are the robots.md",
+    "picoCTF/Web parte 1/Client-side-again.md",
     "picoCTF/plantilla.md",
-    "picoCTF/38 - Serpentine.md",
-    "picoCTF/37 - PW Crack 3.md",
-    "picoCTF/36 - plumbing.md",
-    "picoCTF/35 - Permissions.md",
-    "picoCTF/34 - chrono.md",
-    "picoCTF/33 - Based.md",
-    "picoCTF/32 - ASCII Numbers.md",
-    "picoCTF/31 - Lets Warm Up.md",
-    "picoCTF/Sin nombre",
-    "picoCTF/30 - what's a net cat.md",
-    "picoCTF/29 - Wave a flag.md",
-    "picoCTF/28 - Warmed Up.md",
-    "picoCTF/27 - strings it.md",
-    "picoCTF/26 - Static ain't always noise.md",
-    "picoCTF/25 - Obedient Cat.md",
-    "picoCTF/24 - Nice netcat....md",
-    "picoCTF/23 - Bases.md",
-    "picoCTF/02 - First Grep.md",
-    "picoCTF/22 - Tab, Tab, Attack.md",
-    "picoCTF/21 - runme.py.md",
-    "picoCTF/20 - PW Crack 2.md",
-    "picoCTF/19 - PW Crack 1.md",
-    "picoCTF/18 - Magikarp Ground Mission.md",
-    "picoCTF/17 - Glitch Cat.md",
+    "picoCTF/primer-parcial/02 - First Grep.md",
+    "picoCTF/primer-parcial/40 - useless.md",
+    "picoCTF/primer-parcial",
+    "picoCTF/Sin título.md",
+    "picoCTF/Web parte 1",
+    "picoCTF/primer-parcial/39 - Special.md",
+    "picoCTF/primer-parcial/38 - Serpentine.md",
+    "picoCTF/primer-parcial/37 - PW Crack 3.md",
+    "picoCTF/primer-parcial/36 - plumbing.md",
+    "picoCTF/primer-parcial/35 - Permissions.md",
+    "picoCTF/primer-parcial/34 - chrono.md",
+    "picoCTF/primer-parcial/33 - Based.md",
+    "picoCTF/primer-parcial/32 - ASCII Numbers.md",
+    "picoCTF/primer-parcial/31 - Lets Warm Up.md",
+    "picoCTF/primer-parcial/30 - what's a net cat.md",
+    "picoCTF/primer-parcial/29 - Wave a flag.md",
+    "picoCTF/primer-parcial/28 - Warmed Up.md",
+    "picoCTF/primer-parcial/27 - strings it.md",
+    "picoCTF/primer-parcial/26 - Static ain't always noise.md",
+    "picoCTF/primer-parcial/25 - Obedient Cat.md",
+    "picoCTF/primer-parcial/24 - Nice netcat....md",
     "picoCTF",
     "retos-bandit"
   ]
