@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Web parte 1/Client-side-again.md",
+                "file": "picoCTF/Web parte 2/JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Web parte 1/Client-side-again.md",
+                "file": "picoCTF/Web parte 2/JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Web parte 1/Client-side-again.md",
+                "file": "picoCTF/Web parte 2/JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Web parte 1/Client-side-again.md"
+                "file": "picoCTF/Web parte 2/JaWT Scratchpad.md"
               }
             }
           }
@@ -148,13 +148,18 @@
   },
   "active": "38f29139c2f28175",
   "lastOpenFiles": [
+    "picoCTF/Web parte 2/Irish-Name-Repo 3.md",
+    "picoCTF/Web parte 2/JaWT Scratchpad.md",
+    "picoCTF/Web parte 2/Irish-Name-Repo 2.md",
+    "picoCTF/Web parte 2/Irish-Name-Repo 1.md",
+    "picoCTF/plantilla.md",
+    "picoCTF/Web parte 1/Client-side-again.md",
+    "picoCTF/Web parte 2",
     "picoCTF/Web parte 1/dont-use-client-side.md",
     "picoCTF/Web parte 1/Insp3ct0r.md",
     "picoCTF/Web parte 1/logon.md",
     "picoCTF/Web parte 1/picobrowser.md",
     "picoCTF/Web parte 1/where are the robots.md",
-    "picoCTF/Web parte 1/Client-side-again.md",
-    "picoCTF/plantilla.md",
     "picoCTF/primer-parcial/02 - First Grep.md",
     "picoCTF/primer-parcial/40 - useless.md",
     "picoCTF/primer-parcial",
@@ -172,10 +177,6 @@
     "picoCTF/primer-parcial/30 - what's a net cat.md",
     "picoCTF/primer-parcial/29 - Wave a flag.md",
     "picoCTF/primer-parcial/28 - Warmed Up.md",
-    "picoCTF/primer-parcial/27 - strings it.md",
-    "picoCTF/primer-parcial/26 - Static ain't always noise.md",
-    "picoCTF/primer-parcial/25 - Obedient Cat.md",
-    "picoCTF/primer-parcial/24 - Nice netcat....md",
     "picoCTF",
     "retos-bandit"
   ]
