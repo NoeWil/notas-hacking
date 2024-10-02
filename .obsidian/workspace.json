@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Web parte 4/Most Cookies.md",
+                "file": "picoCTF/Forensic parte 1/What Lies Within.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Web parte 4/Most Cookies.md",
+                "file": "picoCTF/Forensic parte 1/What Lies Within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Web parte 4/Most Cookies.md",
+                "file": "picoCTF/Forensic parte 1/What Lies Within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Web parte 4/Most Cookies.md"
+                "file": "picoCTF/Forensic parte 1/What Lies Within.md"
               }
             }
           }
@@ -148,11 +148,17 @@
   },
   "active": "38f29139c2f28175",
   "lastOpenFiles": [
+    "picoCTF/Forensic parte 1/So Meta.md",
+    "picoCTF/Forensic parte 1/shark on wire 1.md",
+    "picoCTF/Forensic parte 1/Glory of the Garden.md",
+    "picoCTF/Forensic parte 1/extensions.md",
+    "picoCTF/Forensic parte 1/What Lies Within.md",
+    "picoCTF/plantilla.md",
+    "picoCTF/Web parte 4/Most Cookies.md",
+    "picoCTF/Forensic parte 1",
     "picoCTF/Web parte 4/Trickster.md",
     "picoCTF/Web parte 4/SOAP.md",
-    "picoCTF/Web parte 4/Most Cookies.md",
     "picoCTF/Web parte 4/MatchTheRegex.md",
-    "picoCTF/plantilla.md",
     "picoCTF/Web parte 3/Scavenger Hunt.md",
     "picoCTF/Web parte 4",
     "picoCTF/Sin título.md",
@@ -173,11 +179,6 @@
     "picoCTF/primer-parcial/40 - useless.md",
     "picoCTF/primer-parcial",
     "picoCTF/Web parte 1",
-    "picoCTF/primer-parcial/39 - Special.md",
-    "picoCTF/primer-parcial/38 - Serpentine.md",
-    "picoCTF/primer-parcial/37 - PW Crack 3.md",
-    "picoCTF/primer-parcial/36 - plumbing.md",
-    "picoCTF/primer-parcial/35 - Permissions.md",
     "picoCTF",
     "retos-bandit"
   ]
