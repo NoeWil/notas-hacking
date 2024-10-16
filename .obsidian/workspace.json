@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic parte 4/Disk, disk, sleuth!.md",
+                "file": "CTF/hashed world.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Forensic parte 4/Disk, disk, sleuth!.md",
+                "file": "CTF/hashed world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Forensic parte 4/Disk, disk, sleuth!.md",
+                "file": "CTF/hashed world.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Forensic parte 4/Disk, disk, sleuth!.md"
+                "file": "CTF/hashed world.md"
               }
             }
           }
@@ -148,41 +148,41 @@
   },
   "active": "38f29139c2f28175",
   "lastOpenFiles": [
+    "CTF/fancy cipher.md",
+    "CTF/hashed world.md",
+    "CTF/Thermal camera.md",
+    "picoCTF/plantilla.md",
+    "picoCTF/Web parte 2/Irish-Name-Repo 1.md",
+    "picoCTF/Forensic parte 3/MacroHard WeakEdge.md",
+    "picoCTF/Forensic parte 3/WebNet0.md",
+    "picoCTF/Forensic parte 3/WebNet1.md",
+    "picoCTF/Forensic parte 4/Disk, disk, sleuth!.md",
     "picoCTF/Forensic parte 4/Milkslap.md",
     "picoCTF/Forensic parte 4/Operation Oni.md",
     "picoCTF/Forensic parte 4/Operation Orchid.md",
-    "picoCTF/Forensic parte 4/Sleuthkit Intro.md",
     "picoCTF/Forensic parte 4/Sleuthkit Apprentice.md",
-    "picoCTF/Forensic parte 4/Disk, disk, sleuth!.md",
-    "picoCTF/plantilla.md",
-    "picoCTF/Forensic parte 3/WebNet0.md",
+    "picoCTF/Forensic parte 4/Sleuthkit Intro.md",
+    "picoCTF/Forensic parte 2/shark on wire 2.md",
+    "picoCTF/Web parte 2/JaWT Scratchpad.md",
+    "picoCTF/Web parte 3/Cookies.md",
+    "picoCTF/Web parte 3/GET aHEAD.md",
+    "picoCTF/Web parte 3/Scavenger Hunt.md",
+    "picoCTF/Web parte 4/Trickster.md",
+    "picoCTF/Web parte 4/SOAP.md",
+    "picoCTF/Web parte 4/Most Cookies.md",
+    "picoCTF/Web parte 4/MatchTheRegex.md",
+    "CTF",
     "picoCTF/Forensic parte 4",
-    "picoCTF/Forensic parte 3/WebNet1.md",
-    "picoCTF/Forensic parte 3/MacroHard WeakEdge.md",
     "picoCTF/Forensic parte 3/tunn3l v1s10n.md",
     "picoCTF/Forensic parte 3/Matryoshka doll.md",
     "picoCTF/Forensic parte 2/WhitePages.md",
     "picoCTF/Forensic parte 3",
-    "picoCTF/Forensic parte 2/shark on wire 2.md",
-    "picoCTF/Forensic parte 2/m00nwalk.md",
-    "picoCTF/Forensic parte 2/like1000.md",
-    "picoCTF/Forensic parte 2/c0rrupt.md",
-    "picoCTF/Forensic parte 1/What Lies Within.md",
     "picoCTF/Forensic parte 2",
-    "picoCTF/Sin título.md",
-    "picoCTF/Forensic parte 1/So Meta.md",
-    "picoCTF/Forensic parte 1/shark on wire 1.md",
-    "picoCTF/Forensic parte 1/Glory of the Garden.md",
-    "picoCTF/Forensic parte 1/extensions.md",
-    "picoCTF/Web parte 4/Most Cookies.md",
     "picoCTF/Forensic parte 1",
-    "picoCTF/Web parte 4/Trickster.md",
-    "picoCTF/Web parte 4/SOAP.md",
     "picoCTF/Web parte 4",
     "picoCTF/Web parte 2",
     "picoCTF/primer-parcial",
     "picoCTF/Web parte 1",
-    "picoCTF",
-    "retos-bandit"
+    "picoCTF"
   ]
 }
