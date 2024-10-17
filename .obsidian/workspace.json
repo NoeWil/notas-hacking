@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bcddc4ef353b8df8",
+        "id": "08ae1b24426b9344",
         "type": "tabs",
         "children": [
           {
-            "id": "38f29139c2f28175",
+            "id": "c32b6225f6df25c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTF/hashed world.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -54,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -62,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -85,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF/hashed world.md",
+                "file": "picoCTF/Crypto parte 1/Tapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Tapping"
             }
           },
           {
@@ -102,10 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF/hashed world.md",
+                "file": "picoCTF/Crypto parte 1/Tapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Tapping"
             }
           },
           {
@@ -116,7 +124,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -125,8 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF/hashed world.md"
-              }
+                "file": "picoCTF/Crypto parte 1/Tapping.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Tapping"
             }
           }
         ]
@@ -146,8 +158,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "38f29139c2f28175",
+  "active": "3ea7f9820f8ef670",
   "lastOpenFiles": [
+    "picoCTF/Crypto parte 1/la cifra de.md",
+    "picoCTF/Crypto parte 1/Easy1.md",
+    "picoCTF/Crypto parte 1/caesar.md",
+    "picoCTF/Crypto parte 1/13.md",
     "CTF/fancy cipher.md",
     "CTF/hashed world.md",
     "CTF/Thermal camera.md",
@@ -170,12 +186,8 @@
     "picoCTF/Web parte 4/Trickster.md",
     "picoCTF/Web parte 4/SOAP.md",
     "picoCTF/Web parte 4/Most Cookies.md",
-    "picoCTF/Web parte 4/MatchTheRegex.md",
     "CTF",
     "picoCTF/Forensic parte 4",
-    "picoCTF/Forensic parte 3/tunn3l v1s10n.md",
-    "picoCTF/Forensic parte 3/Matryoshka doll.md",
-    "picoCTF/Forensic parte 2/WhitePages.md",
     "picoCTF/Forensic parte 3",
     "picoCTF/Forensic parte 2",
     "picoCTF/Forensic parte 1",
