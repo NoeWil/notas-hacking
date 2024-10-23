@@ -11,10 +11,14 @@
             "id": "c32b6225f6df25c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Crypto parte 2/miniRSA.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "miniRSA"
             }
           }
         ]
@@ -158,8 +162,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3ea7f9820f8ef670",
+  "active": "c32b6225f6df25c2",
   "lastOpenFiles": [
+    "picoCTF/Crypto parte 2/b00tl3gRSA2.md",
+    "picoCTF/Crypto parte 2/miniRSA.md",
+    "picoCTF/Crypto parte 2/rsa-pop-quiz.md",
+    "picoCTF/Forensic parte 1/Glory of the Garden.md",
+    "picoCTF/plantilla.md",
+    "picoCTF/Crypto parte 2",
     "picoCTF/Crypto parte 1/la cifra de.md",
     "picoCTF/Crypto parte 1/Easy1.md",
     "picoCTF/Crypto parte 1/caesar.md",
@@ -167,7 +177,6 @@
     "CTF/fancy cipher.md",
     "CTF/hashed world.md",
     "CTF/Thermal camera.md",
-    "picoCTF/plantilla.md",
     "picoCTF/Web parte 2/Irish-Name-Repo 1.md",
     "picoCTF/Forensic parte 3/MacroHard WeakEdge.md",
     "picoCTF/Forensic parte 3/WebNet0.md",
@@ -182,10 +191,6 @@
     "picoCTF/Web parte 2/JaWT Scratchpad.md",
     "picoCTF/Web parte 3/Cookies.md",
     "picoCTF/Web parte 3/GET aHEAD.md",
-    "picoCTF/Web parte 3/Scavenger Hunt.md",
-    "picoCTF/Web parte 4/Trickster.md",
-    "picoCTF/Web parte 4/SOAP.md",
-    "picoCTF/Web parte 4/Most Cookies.md",
     "CTF",
     "picoCTF/Forensic parte 4",
     "picoCTF/Forensic parte 3",
@@ -194,7 +199,6 @@
     "picoCTF/Web parte 4",
     "picoCTF/Web parte 2",
     "picoCTF/primer-parcial",
-    "picoCTF/Web parte 1",
-    "picoCTF"
+    "picoCTF/Web parte 1"
   ]
 }
