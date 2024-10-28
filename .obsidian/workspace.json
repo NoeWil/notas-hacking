@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/segundo-parcial/Parcial 02 - Parte 4 - Forensic 2/Wireshark twoo twooo two twoo....md",
+                "file": "picoCTF/Reversing parte 1/vault-door-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wireshark twoo twooo two twoo..."
+              "title": "vault-door-5"
             }
           }
         ]
@@ -164,10 +164,18 @@
   },
   "active": "c32b6225f6df25c2",
   "lastOpenFiles": [
+    "picoCTF/Reversing parte 1/vault-door-4.md",
+    "picoCTF/Reversing parte 1/vault-door-3.md",
+    "picoCTF/Reversing parte 1/vault-door-1.md",
+    "picoCTF/Reversing parte 1/vault-door-training.md",
+    "picoCTF/Reversing parte 1/vault-door-5.md",
+    "picoCTF/plantilla.md",
+    "picoCTF/segundo-parcial/Parcial 02 - Parte 4 - Forensic 2/Wireshark twoo twooo two twoo....md",
+    "picoCTF/Reversing parte 1",
+    "picoCTF/Sin título.md",
     "picoCTF/segundo-parcial/Parcial 02 - Parte 4 - Forensic 2/St3g0.md",
     "picoCTF/segundo-parcial/Parcial 02 - Parte 4 - Forensic 2/Secret of the Polyglot.md",
     "picoCTF/segundo-parcial/Parcial 02 - Parte 4 - Forensic 2/Redaction gone wrong.md",
-    "picoCTF/segundo-parcial/Parcial 02 - Parte 4 - Forensic 2/Wireshark twoo twooo two twoo....md",
     "picoCTF/segundo-parcial/Parcial 02 - Parte 4 - Forensic 2/Pitter, Patter, Platters.md",
     "picoCTF/segundo-parcial/Parcial 02 - Parte 4 - Forensic 2/Lookey here.md",
     "picoCTF/segundo-parcial/Parcial 02 - Parte 4 - Forensic 2/Disk, disk, sleuth! II.md",
@@ -183,13 +191,6 @@
     "picoCTF/Crypto parte 2/miniRSA.md",
     "picoCTF/Crypto parte 2/b00tl3gRSA2.md",
     "picoCTF/Crypto parte 1/waves over lambda.md",
-    "picoCTF/Crypto parte 1/The Numbers.md",
-    "picoCTF/Crypto parte 1/Tapping.md",
-    "picoCTF/Crypto parte 1/la cifra de.md",
-    "picoCTF/Crypto parte 1/Easy1.md",
-    "picoCTF/Crypto parte 1/caesar.md",
-    "picoCTF/Crypto parte 1/13.md",
-    "picoCTF/Forensic parte 4/Sleuthkit Intro.md",
     "Pasted image 20241026160142.png",
     "picoCTF/segundo-parcial/Parcial 02 - Parte 4 - Forensic 2",
     "picoCTF/segundo-parcial/Parcial 02 - Parte 3 - Forensic 1",
@@ -199,7 +200,6 @@
     "picoCTF/Crypto parte 3",
     "picoCTF/Crypto parte 2",
     "CTF",
-    "picoCTF/Forensic parte 4",
-    "picoCTF/Forensic parte 3"
+    "picoCTF/Forensic parte 4"
   ]
 }
