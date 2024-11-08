@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Reversing parte 3/asm3.md",
+                "file": "picoCTF/Reversing parte 4/Need For Speed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "asm3"
+              "title": "Need For Speed"
             }
           }
         ]
@@ -164,11 +164,16 @@
   },
   "active": "c32b6225f6df25c2",
   "lastOpenFiles": [
+    "picoCTF/Reversing parte 4/reverse_cipher.md",
+    "picoCTF/Reversing parte 4/Need For Speed.md",
+    "picoCTF/Reversing parte 4/GDB Test Drive.md",
+    "picoCTF/Reversing parte 4/asm4.md",
+    "picoCTF/plantilla.md",
+    "picoCTF/Reversing parte 3/asm3.md",
+    "picoCTF/Reversing parte 4",
     "picoCTF/Reversing parte 3/asm2.md",
     "picoCTF/Reversing parte 3/asm1.md",
     "picoCTF/Reversing parte 3/asm4.md",
-    "picoCTF/Reversing parte 3/asm3.md",
-    "picoCTF/plantilla.md",
     "picoCTF/Reversing parte 2/Picker IV.md",
     "picoCTF/Reversing parte 3",
     "picoCTF/Reversing parte 2/Picker III.md",
@@ -189,17 +194,12 @@
     "picoCTF/segundo-parcial/Parcial 02 - Parte 4 - Forensic 2/Secret of the Polyglot.md",
     "picoCTF/segundo-parcial/Parcial 02 - Parte 4 - Forensic 2/Redaction gone wrong.md",
     "picoCTF/segundo-parcial/Parcial 02 - Parte 4 - Forensic 2/Pitter, Patter, Platters.md",
-    "picoCTF/segundo-parcial/Parcial 02 - Parte 4 - Forensic 2/Lookey here.md",
-    "picoCTF/segundo-parcial/Parcial 02 - Parte 4 - Forensic 2/Disk, disk, sleuth! II.md",
-    "picoCTF/segundo-parcial/Parcial 02 - Parte 4 - Forensic 2/advanced-potion-making.md",
-    "picoCTF/segundo-parcial/Parcial 02 - Parte 3 - Forensic 1/PcapPoisoning.md",
     "Pasted image 20241026160142.png",
     "picoCTF/segundo-parcial/Parcial 02 - Parte 4 - Forensic 2",
     "picoCTF/segundo-parcial/Parcial 02 - Parte 3 - Forensic 1",
     "picoCTF/segundo-parcial/Parcial 02 - Parte 2 - Web 2",
     "picoCTF/segundo-parcial/Parcial 02 - Parte 1 - Web 1",
     "picoCTF/segundo-parcial",
-    "picoCTF/Crypto parte 3",
-    "picoCTF/Crypto parte 2"
+    "picoCTF/Crypto parte 3"
   ]
 }
