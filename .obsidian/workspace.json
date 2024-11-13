@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Reversing parte 4/Need For Speed.md",
+                "file": "picoCTF/Binexp parte 1/flag leak.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Need For Speed"
+              "title": "flag leak"
             }
           }
         ]
@@ -164,11 +164,19 @@
   },
   "active": "c32b6225f6df25c2",
   "lastOpenFiles": [
-    "picoCTF/Reversing parte 4/reverse_cipher.md",
+    "picoCTF/Binexp parte 1/RPS.md",
+    "picoCTF/Binexp parte 1/Stonks.md",
+    "picoCTF/Binexp parte 1/buffer overflow 0.md",
+    "picoCTF/Binexp parte 1/basic-file-exploit.md",
+    "picoCTF/Binexp parte 1/flag leak.md",
+    "picoCTF/Binexp parte 1/Sin nombre",
+    "picoCTF/plantilla.md",
     "picoCTF/Reversing parte 4/Need For Speed.md",
+    "picoCTF/Binexp parte 1",
+    "picoCTF/Sin título.md",
+    "picoCTF/Reversing parte 4/reverse_cipher.md",
     "picoCTF/Reversing parte 4/GDB Test Drive.md",
     "picoCTF/Reversing parte 4/asm4.md",
-    "picoCTF/plantilla.md",
     "picoCTF/Reversing parte 3/asm3.md",
     "picoCTF/Reversing parte 4",
     "picoCTF/Reversing parte 3/asm2.md",
@@ -187,19 +195,11 @@
     "picoCTF/Reversing parte 1/vault-door-4.md",
     "picoCTF/Reversing parte 1/vault-door-3.md",
     "picoCTF/Reversing parte 1/vault-door-training.md",
-    "picoCTF/segundo-parcial/Parcial 02 - Parte 4 - Forensic 2/Wireshark twoo twooo two twoo....md",
     "picoCTF/Reversing parte 1",
-    "picoCTF/Sin título.md",
-    "picoCTF/segundo-parcial/Parcial 02 - Parte 4 - Forensic 2/St3g0.md",
-    "picoCTF/segundo-parcial/Parcial 02 - Parte 4 - Forensic 2/Secret of the Polyglot.md",
-    "picoCTF/segundo-parcial/Parcial 02 - Parte 4 - Forensic 2/Redaction gone wrong.md",
-    "picoCTF/segundo-parcial/Parcial 02 - Parte 4 - Forensic 2/Pitter, Patter, Platters.md",
     "Pasted image 20241026160142.png",
     "picoCTF/segundo-parcial/Parcial 02 - Parte 4 - Forensic 2",
     "picoCTF/segundo-parcial/Parcial 02 - Parte 3 - Forensic 1",
     "picoCTF/segundo-parcial/Parcial 02 - Parte 2 - Web 2",
-    "picoCTF/segundo-parcial/Parcial 02 - Parte 1 - Web 1",
-    "picoCTF/segundo-parcial",
-    "picoCTF/Crypto parte 3"
+    "picoCTF/segundo-parcial/Parcial 02 - Parte 1 - Web 1"
   ]
 }
